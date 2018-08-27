@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('../imgs/bg_login.jpg') no-repeat;
+}
+
+#login{
+    margin: 16% 0;
+    padding: 0 40%;
+    text-align:center;
+}
+
+#login h3{
+    /*margin-bottom: 15px;*/
+}
+
+#login .tip{
+    /*border: 2px solid red;*/
+    height: 30px;
+    margin-bottom: 7px;
+}
+
+#mobile,#password{
+    height: 40px;
+    margin-bottom: 10px;
+}
